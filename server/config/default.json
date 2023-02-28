@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://mongodb+srv://miras:miras2007@cluster0.ywtnpvc.mongodb.net/?retryWrites=true&w=majority"
+}
